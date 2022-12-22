@@ -3,7 +3,7 @@ My first repository
 
 ## Last updated
 -2022/12/22
--12:(JST)
+-12:04(JST)
 
 ## About me
 -my favorite games
