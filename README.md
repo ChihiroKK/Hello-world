@@ -3,4 +3,4 @@
 
 ## 自己紹介リスト
 - [ChihiroKK](https://github.com/ChihiroKK/Hello-world#intro)
-- [buraito](https://github.com/ChihiroKK/hello-world#intro2)
+- [buraito](https://github.com/ChihiroKK/Hello-world#intro2)
