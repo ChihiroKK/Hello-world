@@ -1,6 +1,6 @@
-## “ú•t
+## æ—¥ä»˜
 -2023/1/12
 
-## ©ŒÈĞ‰îƒŠƒXƒg
-[ChihiroKK](https://github.com/ChihiroKK/Hello-world)
-[buraito](https://github.com/buraito/hello-world)
+## è‡ªå·±ç´¹ä»‹ãƒªã‚¹ãƒˆ
+- [ChihiroKK](https://github.com/ChihiroKK/Hello-world#intro)
+- [buraito](https://github.com/ChihiroKK/hello-world#intro2)
